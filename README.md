@@ -50,6 +50,5 @@ Current version: SkyDrive (v1.0). Some modules listed below are still under deve
 ## Demos
 <img src="resources/Image_20230813160004.jpg" align="center" width="100%"/>
 <img src="resources/Image_20230813154725.png" align="center" width="100%"/>
-<img src="resources/Untitled ‑ Made with FlexClip (1).gif" align="center" width="100%"/>
-<img src="resources/SkyDrive-V1_0-Aug_13__third_view__AdobeExpress.gif" align="center" width="100%"/>
+<img src="resources/ezgif-4-ff38a4b583.gif" align="center" width="100%"/>
 

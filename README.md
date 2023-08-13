@@ -48,5 +48,6 @@ Current version: SkyDrive (v1.0). Some modules listed below are still under deve
 - Enables researchers to experiment with advanced AI techniques to improve traffic flow and efficiency.
 
 ## Demos
-<img src="WechatIMG85.png" align="center" width="100%"/>
+<img src="resources/Image_20230813154356.png" align="center" width="100%"/>
+<img src="resources/Image_20230813154725.png" align="center" width="100%"/>
 <img src="SkyDrive-V1_0-Third_Perspective_AdobeExpress (1).gif" align="center" width="100%"/>

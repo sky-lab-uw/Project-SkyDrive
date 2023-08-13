@@ -51,4 +51,4 @@ Current version: SkyDrive (v1.0). Some modules listed below are still under deve
 <img src="resources/Image_20230813154356.png" align="center" width="100%"/>
 <img src="resources/Image_20230813154725.png" align="center" width="100%"/>
 <img src="resources/ezgif-4-334f12daba.gif" align="center" width="100%"/>
-
+<img src="resources/ezgif-4-22f7b7c2e7.gif" align="center" width="100%"/>

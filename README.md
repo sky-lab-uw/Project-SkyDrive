@@ -52,3 +52,7 @@ Current version: SkyDrive (v1.0). Some modules listed below are still under deve
 <img src="resources/Image_20230813154725.png" align="center" width="100%"/>
 <img src="resources/Untitled ‑ Made with FlexClip (1).gif" align="center" width="100%"/>
 <img src="SkyDrive-V1_0-Third_Perspective_AdobeExpress (1).gif" align="center" width="100%"/>
+<video controls autoplay>
+  <source src="resources/SkyDrive-V1.0-Aug 13 (third view).mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
